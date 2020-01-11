@@ -1,2 +1,7 @@
 # hello-world
-Test 
+
+Hi, 
+
+Just16213 here checking up how to use Github.
+
+
